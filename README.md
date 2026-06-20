@@ -27,8 +27,7 @@ microgrid_cp/
 │   └── utils/         # 评估指标与工具函数
 ├── scripts/           # 一键运行入口与图表生成
 ├── data/              # 原始数据与清洗后数据
-├── results/           # 实验结果输出
-└── figures/           # 论文图表
+└── results/           # 实验结果输出
 ```
 
 ## 环境配置
@@ -111,8 +110,7 @@ microgrid_cp/
 │   └── utils/         # Metrics and utilities
 ├── scripts/           # Entry-point scripts and figure generation
 ├── data/              # Raw and processed data
-├── results/           # Experiment outputs
-└── figures/           # Paper figures
+└── results/           # Experiment outputs
 ```
 
 ## Setup
